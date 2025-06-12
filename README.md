@@ -1,7 +1,8 @@
 # Hi there 👋
 
-# 💫 About Me:
-🔭 I’m currently working on Web application<br>🌱 I’m currently learning Management Information System<br> 💬 Ask me about Web development, user interface design <br>📫 How to reach me: sopanhasous@gmail.com <br>😄 Pronouns: She/Her
+I’m Sopanha.
+
+😄 Pronouns: She/Her
 
 
 
@@ -25,9 +26,8 @@
 **sopanha09/sopanha09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning ...
+# 💫 About Me:
+🔭 I’m currently working on Web application<br>🌱 I’m currently learning Management Information System<br> 💬 Ask me about Web development, user interface design <br>📫 How to reach me: sopanhasous@gmail.com <br>😄 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
